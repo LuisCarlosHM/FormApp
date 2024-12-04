@@ -22,6 +22,9 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=React}/{action=Index}/{id?}");
+
+// // Route all unmatched routes to ReactController
+// app.MapFallbackToController("Index", "React");
 
 app.Run();
