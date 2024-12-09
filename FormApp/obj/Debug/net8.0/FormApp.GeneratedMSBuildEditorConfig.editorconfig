@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FormApp
 build_property.RootNamespace = FormApp
@@ -17,6 +25,26 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\luis_\OneDrive\Documentos\FormApp\FormApp
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/luis_/OneDrive/Documentos/FormApp/FormApp/Views/Form/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luis_/OneDrive/Documentos/FormApp/FormApp/Views/Form/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luis_/OneDrive/Documentos/FormApp/FormApp/Views/Form/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luis_/OneDrive/Documentos/FormApp/FormApp/Views/Form/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luis_/OneDrive/Documentos/FormApp/FormApp/Views/Form/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/luis_/OneDrive/Documentos/FormApp/FormApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
