@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KJLurf8QMHpASnfRRkz8CM/NXN8/+KET4Hvd29LMA6g=",
+  "Hash": "2UcMa4ip4LGdQmk4VhxrxQHbguv6kwEvW9qwCT/tr/s=",
   "Source": "FormApp",
   "BasePath": "_content/FormApp",
   "Mode": "Default",
@@ -4446,6 +4446,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\images\\login_background.jpg",
+      "SourceId": "FormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\",
+      "BasePath": "_content/FormApp",
+      "RelativePath": "images/login_background#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5nfk8jdhrm",
+      "Integrity": "zy9xGlHwfYeKYexyXSXEw6UIRADV13R4B4CWzAjAiUs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\login_background.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\images\\logo.png",
+      "SourceId": "FormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\",
+      "BasePath": "_content/FormApp",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g8ftqcadli",
+      "Integrity": "oCNEEi6Kr/r9HB8bnYe99FIvM9ZjJhUsPQzoSoEtGk4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\images\\logo.xcf",
+      "SourceId": "FormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\",
+      "BasePath": "_content/FormApp",
+      "RelativePath": "images/logo#[.{fingerprint}]?.xcf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8quy38lmte",
+      "Integrity": "EKPF/1pw06R7gkNGj6lfu2P8Barr3pDgIHT6uxtwrk8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.xcf"
+    },
+    {
+      "Identity": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\images\\register_background.jpg",
+      "SourceId": "FormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\",
+      "BasePath": "_content/FormApp",
+      "RelativePath": "images/register_background#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s1536qtqbc",
+      "Integrity": "sAVtJVN9jhyHvSyzHrupGO7QuHyEN+5G3F0WYMpX810=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\register_background.jpg"
     },
     {
       "Identity": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\js\\site.js",
@@ -15944,6 +16028,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-JKWeHUaANNuffeRatdc54UCb84RoxjEw/nTq8Mops8Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/login_background.5nfk8jdhrm.jpg",
+      "AssetFile": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\images\\login_background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2279177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zy9xGlHwfYeKYexyXSXEw6UIRADV13R4B4CWzAjAiUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:37:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5nfk8jdhrm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/login_background.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zy9xGlHwfYeKYexyXSXEw6UIRADV13R4B4CWzAjAiUs="
+        }
+      ]
+    },
+    {
+      "Route": "images/login_background.jpg",
+      "AssetFile": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\images\\login_background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2279177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zy9xGlHwfYeKYexyXSXEw6UIRADV13R4B4CWzAjAiUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:37:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zy9xGlHwfYeKYexyXSXEw6UIRADV13R4B4CWzAjAiUs="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.8quy38lmte.xcf",
+      "AssetFile": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\images\\logo.xcf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EKPF/1pw06R7gkNGj6lfu2P8Barr3pDgIHT6uxtwrk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 20:52:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8quy38lmte"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.xcf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EKPF/1pw06R7gkNGj6lfu2P8Barr3pDgIHT6uxtwrk8="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.g8ftqcadli.png",
+      "AssetFile": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oCNEEi6Kr/r9HB8bnYe99FIvM9ZjJhUsPQzoSoEtGk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 21:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g8ftqcadli"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oCNEEi6Kr/r9HB8bnYe99FIvM9ZjJhUsPQzoSoEtGk4="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.png",
+      "AssetFile": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oCNEEi6Kr/r9HB8bnYe99FIvM9ZjJhUsPQzoSoEtGk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 21:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oCNEEi6Kr/r9HB8bnYe99FIvM9ZjJhUsPQzoSoEtGk4="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.xcf",
+      "AssetFile": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\images\\logo.xcf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EKPF/1pw06R7gkNGj6lfu2P8Barr3pDgIHT6uxtwrk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 20:52:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EKPF/1pw06R7gkNGj6lfu2P8Barr3pDgIHT6uxtwrk8="
+        }
+      ]
+    },
+    {
+      "Route": "images/register_background.jpg",
+      "AssetFile": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\images\\register_background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1364817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sAVtJVN9jhyHvSyzHrupGO7QuHyEN+5G3F0WYMpX810=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 20:03:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sAVtJVN9jhyHvSyzHrupGO7QuHyEN+5G3F0WYMpX810="
+        }
+      ]
+    },
+    {
+      "Route": "images/register_background.s1536qtqbc.jpg",
+      "AssetFile": "C:\\Users\\luis_\\OneDrive\\Documentos\\FormApp\\FormApp\\wwwroot\\images\\register_background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1364817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sAVtJVN9jhyHvSyzHrupGO7QuHyEN+5G3F0WYMpX810=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 20:03:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s1536qtqbc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/register_background.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sAVtJVN9jhyHvSyzHrupGO7QuHyEN+5G3F0WYMpX810="
         }
       ]
     },
